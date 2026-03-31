@@ -7,11 +7,15 @@
 * Researching Low-Resource NLP and deceptive text detection.
 * Exploring time-series forecasting for epidemiological outbreaks.
 
-### 🛠️ Tech Stack
-* **Languages:** Python, R, SQL, C++
-* **Machine Learning:** TensorFlow, Keras, PyTorch, Scikit-Learn
-* **Data & NLP:** Pandas, NLTK, sentimentr, quanteda
-* **Visualization:** Power BI, Tableau, ggplot2
+### 🛠️ Technical Arsenal
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Machine Learning & Data:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### 📫 Let's Connect
 * 💼 [LinkedIn](YOUR_LINKEDIN_URL)
