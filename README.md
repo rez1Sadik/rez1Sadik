@@ -8,11 +8,7 @@
 * Exploring time-series forecasting for epidemiological outbreaks.
 
 ### Skills
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,c,cpp,mysql,tensorflow,pytorch,scikit,git,vscode,html,css,js&theme=light" alt="My Skills" />
-  </a>
-</div>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,r,mysql,tensorflow,pytorch,scikit,pandas,git,vscode,latex" alt="Skills" /></a>
 
 
 
