@@ -1,5 +1,4 @@
-# Hi there, I'm Rezwane Sadik 👋
-
+# Hi there, Sadik here 👋
 
 
 ### Current Focus
