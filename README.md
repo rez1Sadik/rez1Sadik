@@ -8,19 +8,19 @@
 * Exploring time-series forecasting for epidemiological outbreaks.
 
 ### 🛠️ Technical Arsenal
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Machine Learning & Data:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,c,cpp,tensorflow,pytorch,scikit,pandas,git,vscode&theme=light" alt="Tech Stack Badges" />
+  </a>
+</p>
 
-### 📫 Let's Connect
-* 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-* 🎓 [Google Scholar](YOUR_SCHOLAR_URL)
-* 🌐 [Portfolio Website](https://rez1sadik.github.io)
+### 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rez1Sadik&show_icons=true&theme=transparent&hide_border=true&title_color=2c3e50&text_color=4a5568&icon_color=2c3e50" alt="Rezwane's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rez1Sadik&layout=compact&theme=transparent&hide_border=true&title_color=2c3e50&text_color=4a5568" alt="Top Languages" />
+</p>
 
 ---
 💡 *“Decoding human dialogue: from unsupervised learning to deep neural networks.”*
