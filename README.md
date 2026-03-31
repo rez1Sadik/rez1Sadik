@@ -7,6 +7,7 @@
 ### Skills
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,r,mysql,tensorflow,pytorch,scikit,pandas,git,vscode,latex" alt="Skills" /></a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=rez1Sadik&color=2c3e50&style=flat-square&label=PROFILE+VIEWS)
 
 
 ---
