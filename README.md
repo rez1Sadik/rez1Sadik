@@ -8,19 +8,11 @@
 * Exploring time-series forecasting for epidemiological outbreaks.
 
 ### 🛠️ Technical Arsenal
-
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,mysql,c,cpp,tensorflow,pytorch,scikit,pandas,git,vscode&theme=light" alt="Tech Stack Badges" />
+    <img src="https://skillicons.dev/icons?i=py,r,c,cpp,mysql,tensorflow,pytorch,scikit,git,vscode,html,css,js&theme=light" alt="My Skills" />
   </a>
-</p>
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rez1Sadik&show_icons=true&theme=transparent&hide_border=true&title_color=2c3e50&text_color=4a5568&icon_color=2c3e50" alt="Rezwane's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rez1Sadik&layout=compact&theme=transparent&hide_border=true&title_color=2c3e50&text_color=4a5568" alt="Top Languages" />
-</p>
+</div>
 
 ---
 💡 *“Decoding human dialogue: from unsupervised learning to deep neural networks.”*
