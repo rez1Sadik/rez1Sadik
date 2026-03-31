@@ -3,7 +3,7 @@
 
 
 ### Current Focus
-* Learning deep learning architectures for Obstructive Sleep Apnea (OSA) diagnostics.
+* Diving deep in the Obstructive Sleep Apnea (OSA) sea!
 
 ### Skills
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,r,mysql,tensorflow,pytorch,scikit,pandas,git,vscode,latex" alt="Skills" /></a>
@@ -11,7 +11,7 @@
 
 
 ---
-💡 *“Live,love,laugh!”*
+💡 *“Time is the silent narrator of our life's story!”*
 
 <!--
 **rez1Sadik/rez1Sadik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
