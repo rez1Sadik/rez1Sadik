@@ -2,10 +2,8 @@
 
 
 
-### 🔬 Current Focus
-* Developing deep learning architectures for Obstructive Sleep Apnea (OSA) diagnostics.
-* Researching Low-Resource NLP and deceptive text detection.
-* Exploring time-series forecasting for epidemiological outbreaks.
+### Current Focus
+* Learning deep learning architectures for Obstructive Sleep Apnea (OSA) diagnostics.
 
 ### Skills
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,r,mysql,tensorflow,pytorch,scikit,pandas,git,vscode,latex" alt="Skills" /></a>
@@ -13,7 +11,7 @@
 
 
 ---
-💡 *“Decoding human dialogue: from unsupervised learning to deep neural networks.”*
+💡 *“Live,love,laugh!”*
 
 <!--
 **rez1Sadik/rez1Sadik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
