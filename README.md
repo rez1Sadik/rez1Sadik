@@ -1,6 +1,6 @@
 # Hi! Sadik here 👋
 
-**Current Focus:** Developing deep learning architectures and predictive models for Obstructive Sleep Apnea (OSA) diagnostics.
+**Current Focus:** Diving deep in the sea of Obstructive Sleep Apnea (OSA)!
 
 ### Core Technical Stack
 <p align="left">
