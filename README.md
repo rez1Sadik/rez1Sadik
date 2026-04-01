@@ -1,11 +1,11 @@
 # Hi! Sadik here 👋
 
 
-### Current Focus
-* Diving deep in the Obstructive Sleep Apnea (OSA) sea!
+### Current Focus: Diving deep in the Obstructive Sleep Apnea (OSA) sea!
 
-### Skills
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,r,mysql,tensorflow,pytorch,scikit,pandas,git,vscode,latex" alt="Skills" /></a>
+
+### Technical Stack
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,r,mysql,tensorflow,pytorch,scikit" alt="Skills" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rez1Sadik&color=2c3e50&style=flat-square&label=PROFILE+VIEWS)
 
