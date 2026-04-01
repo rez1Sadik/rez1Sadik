@@ -4,11 +4,11 @@
 
 ### Core Technical Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-2C3E50?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/R_Language-2C3E50?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/TensorFlow-2C3E50?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Scikit_Learn-2C3E50?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/MySQL-2C3E50?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Python-FDFDFD?style=flat&logo=python&logoColor=64748B" alt="Python">
+  <img src="https://img.shields.io/badge/R_Language-FDFDFD?style=flat&logo=r&logoColor=64748B" alt="R">
+  <img src="https://img.shields.io/badge/TensorFlow-FDFDFD?style=flat&logo=tensorflow&logoColor=64748B" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Scikit_Learn-FDFDFD?style=flat&logo=scikit-learn&logoColor=64748B" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/MySQL-FDFDFD?style=flat&logo=mysql&logoColor=64748B" alt="MySQL">
 </p>
 
 ---
