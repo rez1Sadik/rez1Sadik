@@ -1,4 +1,4 @@
-# Hi there, Sadik here 👋
+# Hi! Sadik here 👋
 
 
 ### Current Focus
