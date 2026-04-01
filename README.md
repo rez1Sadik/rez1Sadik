@@ -1,13 +1,15 @@
 # Hi! Sadik here 👋
 
-
-### Current Focus: Diving deep in the Obstructive Sleep Apnea (OSA) sea!
-
+**Current Focus:** Developing deep learning architectures and predictive models for Obstructive Sleep Apnea (OSA) diagnostics.
 
 ### Core Technical Stack
-
-
-<img src="https://img.shields.io/badge/-Python-F3F4F6?style=flat&logo=python&logoColor=3776AB" alt="Python"> <img src="https://img.shields.io/badge/-R_Language-F3F4F6?style=flat&logo=r&logoColor=276DC3" alt="R"> <img src="https://img.shields.io/badge/-TensorFlow-F3F4F6?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"> <img src="https://img.shields.io/badge/-Scikit_Learn-F3F4F6?style=flat&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn"> <img src="https://img.shields.io/badge/-MySQL-F3F4F6?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL">
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-2C3E50?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R_Language-2C3E50?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/TensorFlow-2C3E50?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Scikit_Learn-2C3E50?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/MySQL-2C3E50?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
 ---
 💡 *“Time is the silent narrator of our life's story!”*
