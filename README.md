@@ -3,13 +3,13 @@
 ### Current Focus: 
 Diving deep in the sea of Obstructive Sleep Apnea (OSA)!
 
-#### Core Technical Stack
+#### Core Technical Stack:
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-FDFDFD?style=flat&logo=python&logoColor=64748B" alt="Python" height="30">
-  <img src="https://img.shields.io/badge/R_Language-FDFDFD?style=flat&logo=r&logoColor=64748B" alt="R" height="30">
-  <img src="https://img.shields.io/badge/TensorFlow-FDFDFD?style=flat&logo=tensorflow&logoColor=64748B" alt="TensorFlow" height="30">
-  <img src="https://img.shields.io/badge/Scikit_Learn-FDFDFD?style=flat&logo=scikit-learn&logoColor=64748B" alt="Scikit-Learn" height="30">
-  <img src="https://img.shields.io/badge/MySQL-FDFDFD?style=flat&logo=mysql&logoColor=64748B" alt="MySQL" height="30">
+  <img src="https://img.shields.io/badge/Python-FDFDFD?style=flat&logo=python&logoColor=64748B" alt="Python" height="60">
+  <img src="https://img.shields.io/badge/R_Language-FDFDFD?style=flat&logo=r&logoColor=64748B" alt="R" height="60">
+  <img src="https://img.shields.io/badge/TensorFlow-FDFDFD?style=flat&logo=tensorflow&logoColor=64748B" alt="TensorFlow" height="60">
+  <img src="https://img.shields.io/badge/Scikit_Learn-FDFDFD?style=flat&logo=scikit-learn&logoColor=64748B" alt="Scikit-Learn" height="60">
+  <img src="https://img.shields.io/badge/MySQL-FDFDFD?style=flat&logo=mysql&logoColor=64748B" alt="MySQL" height="300">
 </p>
 
 
