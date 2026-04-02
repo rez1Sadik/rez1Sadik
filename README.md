@@ -8,6 +8,7 @@
   </picture>
 </a>
 
+
 ### My Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FDFDFD?style=flat&logo=python&logoColor=3776AB" alt="Python" height="28">
@@ -16,13 +17,16 @@
   <img src="https://img.shields.io/badge/Scikit_Learn-FDFDFD?style=flat&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn" height="28">
   <img src="https://img.shields.io/badge/MySQL-FDFDFD?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL" height="28">
 </p>
-
-####
-Found my work useful! A ⭐ is greatly appreciated.
+<p align="right">
+  <sub><i>Found my work useful! A ⭐ is greatly appreciated.</i></sub>
+</p>
 
 ---
-💡 *“Time is the silent narrator of our life's story!”*
 
+
+<p align="left">
+  <sub>💡 <i>"Time is the silent narrator of our life's story!"</sub>
+</p>
 <!--
 **rez1Sadik/rez1Sadik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
