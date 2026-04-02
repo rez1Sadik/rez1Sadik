@@ -8,7 +8,7 @@
   </picture>
 </a>
 
-### My Tech Stack
+### My Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FDFDFD?style=flat&logo=python&logoColor=3776AB" alt="Python" height="28">
   <img src="https://img.shields.io/badge/R_Language-FDFDFD?style=flat&logo=r&logoColor=276DC3" alt="R" height="28">
