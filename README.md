@@ -8,7 +8,6 @@
   </picture>
 </a>
 
-
 ### My Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FDFDFD?style=flat&logo=python&logoColor=3776AB" alt="Python" height="28">
