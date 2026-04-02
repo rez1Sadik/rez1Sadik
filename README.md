@@ -1,6 +1,7 @@
 # Hi! Sadik here 👋
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3172B4&vCenter=true&width=600&lines=Hi!+Sadik+here+👋;Ph.D.+Researcher;Data+Scientist;Deep+Learning+%26+NLP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3172B4&vCenter=true&width=600&lines=Ph.D.+Researcher;Data+Manager;Deep+Learning+and+NLP" alt="Typing SVG" />
 </a>
 
 ### Current Focus: 
