@@ -3,9 +3,9 @@
 
 <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=F3F4F6&vCenter=true&width=600&lines=Diving+deep+in+the+sea+of+Obstructive+Sleep+Apnea+(OSA)!;Data+Manager">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=2C3E50&vCenter=true&width=600&lines=Diving+deep+in+the+sea+of+Obstructive+Sleep+Apnea+(OSA)!;Data+Manager">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=2C3E50&vCenter=true&width=600&lines=Diving+deep+in+the+sea+of+Obstructive+Sleep+Apnea+(OSA)!;Data+Manager">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=F3F4F6&vCenter=true&width=600&lines=Data+Manager;Diving+deep+in+the+sea+of+Obstructive+Sleep+Apnea+(OSA)!;Thank+you+for+visiting+my+profile!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=2C3E50&vCenter=true&width=600&lines=Data+Manager;Diving+deep+in+the+sea+of+Obstructive+Sleep+Apnea+(OSA)!;Thank+you+for+visiting+my+profile!">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=2C3E50&vCenter=true&width=600&lines=Data+Manager;Diving+deep+in+the+sea+of+Obstructive+Sleep+Apnea+(OSA)!;Thank+you+for+visiting+my+profile!">
   </picture>
 </a>
 
