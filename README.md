@@ -17,7 +17,8 @@
   <img src="https://img.shields.io/badge/MySQL-FDFDFD?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL" height="28">
 </p>
 
-⭐ Found my work useful! A star is greatly appreciated.
+####
+Found my work useful! A ⭐ is greatly appreciated.
 
 ---
 💡 *“Time is the silent narrator of our life's story!”*
