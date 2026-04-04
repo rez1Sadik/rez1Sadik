@@ -10,13 +10,32 @@
 
 
 ### My Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FDFDFD?style=flat&logo=python&logoColor=3776AB" alt="Python" height="28">
-  <img src="https://img.shields.io/badge/R_Language-FDFDFD?style=flat&logo=r&logoColor=276DC3" alt="R" height="28">
-  <img src="https://img.shields.io/badge/TensorFlow-FDFDFD?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" height="28">
-  <img src="https://img.shields.io/badge/Scikit_Learn-FDFDFD?style=flat&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn" height="28">
-  <img src="https://img.shields.io/badge/MySQL-FDFDFD?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL" height="28">
-</p>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" alt="Python" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="45" alt="PyTorch" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="45" alt="SQL" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="45" alt="R" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  
+</div>
+
+
+
 <p align="right">
   <sub><i>Found my work useful! A ⭐ is greatly appreciated.</i></sub>
 </p>
