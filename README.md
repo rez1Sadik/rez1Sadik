@@ -9,43 +9,42 @@
 </a>
 
 
-### My Tech Stack:
 
+
+<br>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" alt="Python" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="45" alt="PyTorch" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="45" alt="SQL" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="45" alt="R" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  
+<h2>My Tech Stack</h2> 
 </div>
 
+<div align="center">
 
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" alt="Python" title="Python" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="60" alt="VS Code" title="VS Code" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="60" alt="TensorFlow" title="TensorFlow" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="60" alt="PyTorch" title="PyTorch" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="60" alt="SQL" title="SQL" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="60" alt="R" title="R" /></a>
+</div>
 
-<p align="right">
+<div align="center">
+<h2></h2> 
+</div>
+
+<br>
+
+### GitHub Analytics
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rez1Sadik&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Sadik's GitHub Stats" />
+</div>
+
+<br><br>
+
+<div align="right">
   <sub><i>Found my work useful! A ⭐ is greatly appreciated.</i></sub>
-</p>
+</div>
+
 
 ---
 
 
-<p align="left">
+<div align="left">
   <sub>💡 <i>"Time is the silent narrator of our life's story!"</sub>
-</p>
+</div>
 <!--
 **rez1Sadik/rez1Sadik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
