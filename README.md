@@ -1,9 +1,5 @@
-<div align="Left">
 <h2>Hi! Sadik here 👋</h2> 
-</div>
 
-
-<div align="Left">
 <a href="https://git.io/typing-svg">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=F3F4F6&vCenter=true&width=600&lines=Data+Manager+at+SD+Department+of+Education;Focus:+Diving+deep+in+the+sea+of+Obstructive+Sleep+Apnea+(OSA)!;Thank+you+for+visiting+my+profile!">
