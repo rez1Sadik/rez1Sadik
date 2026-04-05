@@ -21,7 +21,7 @@
 <br>
 
 <div align="right">
-  <sub><i>Found my work useful? A ⭐ is greatly appreciated.</i></sub>
+  <sub><i>Found my work useful! A ⭐ is greatly appreciated.</i></sub>
 </div>
 
 ---
