@@ -1,5 +1,5 @@
 <div align="left">
-  <img align="right" src="https://komarev.com/ghpvc/?username=rez1Sadik&label=Profile%20Views&color=64748B&style=flat-square" alt="Profile Views" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=rez1Sadik&label=Profile%20Views&color=3776AB&style=flat" alt="Profile Views" />
   <h2>Hi! Sadik here 👋</h2> 
 </div>
 
