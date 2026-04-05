@@ -13,10 +13,15 @@
 
 <div align="center">
   <h2>GitHub Analytics</h2>
-  <a href="https://github.com/AVS1508">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rez1Sadik&theme=light&hide_border=true&v=8" height="160" alt="GitHub Streak" />
-  </a>
 
+<div align="center">
+  <a href="https://github.com/rez1Sadik">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rez1Sadik&amp;theme=transparent&amp;hide_border=true&amp;ring=E58A38&amp;fire=E58A38&amp;currStreakNum=CBD5E1&amp;currStreakLabel=E58A38&amp;sideLabels=F8FAFC&amp;sideNums=CBD5E1&amp;dates=94A3B8&amp;v=14" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rez1Sadik&amp;theme=transparent&amp;hide_border=true&amp;ring=E58A38&amp;fire=E58A38&amp;currStreakNum=475569&amp;currStreakLabel=E58A38&amp;sideLabels=0F172A&amp;sideNums=475569&amp;dates=64748B&amp;v=14" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rez1Sadik&amp;theme=transparent&amp;hide_border=true&amp;ring=E58A38&amp;fire=E58A38&amp;currStreakNum=475569&amp;currStreakLabel=E58A38&amp;sideLabels=0F172A&amp;sideNums=475569&amp;dates=64748B&amp;v=14" height="165" alt="GitHub Streak" />
+    </picture>
+  </a>
 </div>
 
 
