@@ -19,6 +19,18 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" alt="Python" title="Python" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="60" alt="VS Code" title="VS Code" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="60" alt="TensorFlow" title="TensorFlow" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="60" alt="PyTorch" title="PyTorch" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="60" alt="SQL" title="SQL" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="60" alt="R" title="R" /></a>
 </div>
 
+
+<div align="center">
+  <h2>GitHub Analytics</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=rez1Sadik&show_icons=true&hide_border=true&theme=default#gh-light-mode-only" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rez1Sadik&layout=compact&hide_border=true&theme=default#gh-light-mode-only" width="48%" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rez1Sadik&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117#gh-dark-mode-only" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rez1Sadik&layout=compact&hide_border=true&theme=dark&bg_color=0D1117#gh-dark-mode-only" width="48%" alt="Top Languages" />
+</div>
+
+
 <div align="right">
 <h2></h2> 
   <sub><i>Found my work useful! A ⭐ is greatly appreciated.</i></sub>
