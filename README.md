@@ -1,7 +1,13 @@
 <div align="left">
+  <img align="right" src="https://komarev.com/ghpvc/?username=rez1Sadik&label=Profile%20Views&color=64748B&style=flat-square" alt="Profile Views" />
   <h2>Hi! Sadik here 👋</h2> 
+</div>
+
+<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=7393B3&vCenter=true&width=600&lines=Data+Manager+at+SD+Department+of+Education;Focus:+Diving+deep+in+the+sea+of+Obstructive+Sleep+Apnea+%28OSA%29!;Thank+you+for+visiting+my+profile!" alt="Typing SVG" />
 </div>
+
+
 
 <div align="center">
   <h2>My Tech Stack</h2> 
@@ -22,7 +28,6 @@
       </picture>
     </a>
 </div>
-
 
 
 
